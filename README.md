@@ -15,12 +15,12 @@
 </p>
 
 
-- 🌱 I’m currently exploring **DevOps!** 
+- 🌱 I’m actively building **DevOps projects**
 - 👀 I’m interested in **Open-Source and Hackathons.**
-- 💞️ I’m looking to collaborate on **Backend projects.**
-- 🤝 I’m seeking **Mentorship in DevOps.**
-- 📫 Feel free to reach out via email at **jlagat007@gmail.com**
-- 💡 *Fun Fact: If vintage is an art, then my heart is a masterpiece!*
+- 💞️ I’m looking to collaborate on **Cloud projects.**
+- 📫 Check out my pinned repos below!
+- 🤝 I’m open to **Cloud & DevOps roles.**
+- 💡 Fun Fact: *Watch the clouds. They will teach you about the world of form!*
 
 <h3 align="left">Languages:</h3>
 <div align="left"> <img src="https://skillicons.dev/icons?i=c,python,js,css,html,django,flask" /> </div> 
