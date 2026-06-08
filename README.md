@@ -15,11 +15,11 @@
 </p>
 
 
+- 📫 Check out my pinned repos below!
+- 🤝 I’m open to **Cloud & DevOps roles.**
 - 🌱 I’m actively building **DevOps projects**
 - 👀 I’m interested in **Open-Source and Hackathons.**
 - 💞️ I’m looking to collaborate on **Cloud projects.**
-- 📫 Check out my pinned repos below!
-- 🤝 I’m open to **Cloud & DevOps roles.**
 - 💡 Fun Fact: *Watch the clouds. They will teach you about the world of form!*
 
 <h3 align="left">Languages:</h3>
